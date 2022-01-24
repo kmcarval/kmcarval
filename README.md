@@ -11,7 +11,7 @@ You can check out my [twitter](https://twitter.com/klebea?lang=en) and my [Linke
 Skills: R | HPC (SGE, SLURM) | Some Linux & Python | 
   
       
- 📘 Currently Learning Python and Linux
+ 📘 Currently improving my Python and Linux skills
  
  📫 kmcarval@uci.edu
 
