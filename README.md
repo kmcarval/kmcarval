@@ -5,13 +5,13 @@
   
   
 I am Klebea (**Bea**). I am a Postdoctoral Scholar working in **Genomics Research**. I work on both wet lab and data analysis.
-I enjoy working on R- and Python-based bioinformatics pipelines, as well as learning other languages.
+I enjoy working on R- and Linux-based bioinformatics pipelines, as well as learning other languages.
 You can check out my [twitter](https://twitter.com/klebea?lang=en) and my [LinkedIn](https://www.linkedin.com/in/carvalhoklebea/).
 
-Skills: R | HPC (SGE, SLURM) | Some Linux & Python | 
+Skills: R | HPC (SGE, SLURM) | Linux | Some Python | 
   
       
- 📘 Currently improving my Python and Linux skills
+ 📘 Currently improving my Python skills
  
  📫 kmcarval@uci.edu
 
