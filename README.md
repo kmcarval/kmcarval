@@ -1,17 +1,16 @@
-### Hi there 👋, I am Bea Carvalho Sohn 
-#### Postdoctoral Scholar 
-#### Genomics | Bioinformatics
+### Hi there 👋, I am Klebea (Bea) Sohn 
+
+#### Genomics | Data Science | Biotechnology 
   
   
-  
-I am Klebea (**Bea**). I am a Postdoctoral Scholar working in **Genomics Research**. I work on both wet lab and data analysis.
-I enjoy working on R- and Linux-based bioinformatics pipelines, as well as learning other languages.
+
+I enjoy working on R-, Python- and Linux-based bioinformatics pipelines, as well as learning other languages.
 You can check out my [twitter](https://twitter.com/klebea?lang=en) and my [LinkedIn](https://www.linkedin.com/in/carvalhoklebea/).
 
-Skills: R | HPC (SGE, SLURM) | Linux | Some Python | 
+Skills: R | HPC (SGE, SLURM) | Linux | Python | 
   
       
- 📘 Currently improving my Python skills
+ 📘 Always learning
  
  📫 kmcarval@uci.edu
 
